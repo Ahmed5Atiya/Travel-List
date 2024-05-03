@@ -36,7 +36,7 @@ export default function App() {
       )
     );
   }
-
+  // this is the first project by the react
   return (
     <div className="app">
       <Logo />
